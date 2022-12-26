@@ -1,2 +1,2 @@
 # slstatus
-My build of slstatus.
+My slstatus build
